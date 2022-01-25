@@ -1,0 +1,220 @@
+__________________________________________________________________________________
+
+	ZALORA MALAYSIA: Online Platform for Customize Handbags Service
+__________________________________________________________________________________
+----------------------------------------------------------------------------------
+	** Customer Service Team at 03-92123535 or customer@my.zalora.com
+----------------------------------------------------------------------------------
+
+Welcome to ZALORA, online platform for FASHION & LIFESTYLE! 
+This program provide a customize handbag service.
+
+First, do you wish to obtain suggestion size, weight and type of handbags? (Y/N)
+Yes
+Please answer the following question accordingly.
+1. Please enter your height (cm): 
+163
+2. Please enter your weight (kg): 
+61
+3. Please enter your body type: 
+  a.	Inverted Triangle Body Type
+  b.	Triangle Body Type
+  c.	Rectangle Body Type
+  d.	Hourglass Body Type
+  e.	Apple Body Type
+b
+
+Handbag size chart by height and weight:
+
+  Height(cm)	|  Recommend Size of Handbag
+  -------------------------------------------
+  >175 cm	|  Large or Extra large
+  160 - 175 cm	|  Medium
+  <160 cm	|  Small  
+
+  Weight(kg)	|  Recommend Size of Handbag
+  -------------------------------------------
+  >75kg		|  Large or Extra large
+  60 - 75kg	|  Medium or Large
+  45 - 60kg	|  Medium
+  <45kg		|  Small  
+
+
+Handbag  suggestion chart by Body Type: 
+
+  Body Type			|  Suggestion Handbag
+  --------------------------------------------------------
+  Inverted Triangle Body Type	|  -crossbody hanbags
+  				|  -hobo handbags
+  				|  -shoulder handbags
+  				|  
+  Triangle Body Type		|  -satchel handbags
+  				|  
+  Rectangle Body Type		|  -satchel hanbags
+  				|  -hobo handbags
+  				|  
+  Hourglass Body Type		|  -tote handbags
+  				|  -satchel handbags
+  				|  -hobo handbags
+  				|  -shoulder handbags
+  				|  
+  Apple Body Type		|  -tote handbags  
+
+Suggestion:
+	Your height is 163cm.
+	Recommend size of handbags based on the chart above is MEDIUM size.
+
+	Your weight is 61kg.
+	Recommend size of handbags based on the chart above is MEDIUM or LARGE size.
+
+	Your body type is Triangle Body Type.
+	Suggestion Handbags:
+		i.   Satchel handbags
+
+Before start personalization feature of the handbags, Please choose the brand and type of the handbag you prefer:
+Brand:
+	a. Gucci
+	b. Coach
+	c. Louis Vuitton
+	d. Kate Spade
+	e. Guess
+	f. Bonia
+	g. Fossil
+
+Please select the brand of the handbag: 
+c
+Types of handbag:
+   1.  Clutch        || RM150
+   2.  Hobo          || RM210
+   3.  Satchel       || RM175
+   4.  Shopper       || RM100
+   5.  Travel        || RM250
+   6.  Cross-body    || RM130
+   7.  Sports        || RM90
+   8.  Beach         || RM60
+   9.  Messenger Bag || RM90
+
+Please select the type of the handbag: 
+3
+
+============Personalization Section============
+
+  Material		|  Price(RM)
+  -----------------------------------
+  a. Leather		|  RM90
+  b. Vegan Leather	|  RM25
+  c. Cotton Canvas	|  RM55
+  d. Nylon		|  RM30
+  e. Cordura		|  RM35
+  f. Denim		|  RM70  
+
+Please select the material of the handbags:
+a
+
+=====Accessories Add-on(Handbag Compartment)=====
+
+  Items				|  Price (RM)
+  --------------------------------------------
+  a. Adding compartment(each)	|  RM15
+  b. Adding handle		|  RM7
+  c. Adding zipper		|  RM5
+  d. Adding inner pocket	|  RM12
+  e. Adding clip/ key ring	|  RM2.50  
+
+Please select your accessories add-on: 
+a
+Please enter the quantity: 
+3
+
+=================Color Selection==================
+
+  Color				|  Price (RM)
+  --------------------------------------------------
+  a. Black			|  Free of Charge
+  b. White			|  Free of Charge
+  c. Charcoal			|  Free of Charge
+  d. Beige			|  Free of Charge
+  e. Red			|  Free of Charge
+  f. Yellow			|  Free of Charge
+  g. Premium Multi-color	|  RM25
+  h. Premium Pearl color	|  RM14
+  i. Premium Black Gold		|  RM20  
+
+Please select your color: 
+g
+
+===================Size Selection==================
+
+	1. Extra Large |  RM 25
+	2. Large       |  RM 15
+	3. Medium      |  RM 10
+	4. Small       |  RM 10
+
+Please select your size for handbag: 
+3
+
+===================================================================
+                          Membership                               
+===================================================================
+**10% offer and free premium gift will be available for membership
+  Free Shipping will also be available for membership
+  Zero interest for installment payment
+
+Do you have a membership?
+true
+
+Please enter your member id: 
+1522345
+
+You can now enjoy the membership privilege.
+	i.   10% offer & Free Premium Gift
+	ii.  Free Shipping
+	iii. Zero interest for installment payment
+
+===================================================================
+                         Confirm Order                             
+===================================================================
+
+The brand of the bag you choose is   : Louis Vuitton
+The type of handbag you choose is    : Satchel
+The material you choose is           : Leather
+The accessoreis add-on you choose is : Compartment
+The color you choose is              : Premium Multi-color
+The size of handbag you choose is    : Medium
+
+Confirm you order and proceed to payment ? (Y/N)
+Yes
+===================================================================
+                         Payment                                   
+===================================================================
+
+The price of the handbag      =  RM 175.00
+The price of the material     =  RM 90.00
+The price of the accessories  =  RM 45.00
+The price of the color chosen =  RM 25.00
+The price of the size chosen  =  RM 10.00
+Shipping fees                 =  RM 0.00
+Total price before discount   =  RM 345.00
+Membership Offer              = -RM 34.50
+______________________________________________________
+Total price after discount    =  RM 310.50
+
+Please enter the amount paid  =  RM 
+320
+Total amount paid             =  RM 320.00
+Change                        =  RM 9.50
+
+Thank you very much! Please enjoy your day!
+
+Voucher: 
+
+  ____________________________________________________________________
+||====================================================================||
+||## ZALORA MALAYSIA: Online Platform for Customize Handbags Service  ||
+||--------------------------------------------------------------------||
+||                                                                    ||
+||   Limited Voucher:  Second purchase items can enjoy 50% off !!!    ||
+||                                                                    ||
+||***Term & condition apply                        Valid Date: 1 year ||
+||====================================================================||
+||____________________________________________________________________||
